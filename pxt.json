@@ -1,0 +1,17 @@
+{
+    "name": "DHT11",
+    "dependencies": {
+        "arduino-zero": "*",
+        "serial": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "dht11.ts",
+        "gpioMakeCode.ts",
+        "utils.cpp"
+    ],
+    "preferredEditor": "tsprj"
+}
