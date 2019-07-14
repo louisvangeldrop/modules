@@ -1,5 +1,5 @@
 {
-    "name": "DHT11",
+    "name": "Modules",
     "dependencies": {
         "arduino-zero": "*",
         "serial": "*"
