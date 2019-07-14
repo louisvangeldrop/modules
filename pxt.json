@@ -1,8 +1,7 @@
 {
     "name": "Modules",
     "dependencies": {
-        "arduino-zero": "*",
-        "serial": "*"
+        "arduino-zero": "*"
     },
     "description": "",
     "files": [
